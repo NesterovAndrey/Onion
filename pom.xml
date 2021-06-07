@@ -12,7 +12,7 @@
     <artifactId>onion</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>onion</name>
-    <description>Onion architecture practice</description>
+    <description>Onion architecture practice.</description>
     <properties>
         <java.version>16</java.version>
     </properties>
